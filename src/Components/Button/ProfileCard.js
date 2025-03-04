@@ -1,6 +1,6 @@
 const ProfileCard = ({ name, username, profileImage, href }) => {
   return (
-    <div className="mt-64">
+    <div className="mt-32">
       <div className="flex-shrink-0 flex hover:bg-gray-800 rounded-full px-2 py-2 mt-12 mr-1 ml-1">
         <a href={href} className="flex-shrink-0 group block">
           <div className="flex items-center">
