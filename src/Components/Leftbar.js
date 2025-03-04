@@ -237,7 +237,7 @@ function ModalPost({ onClose, handlePost }) {
           <div className="m-4 w-10 py-1">
             <img
               className="inline-block h-10 w-10 rounded-full"
-              src="https://pbs.twimg.com/profile_images/1254779846615420930/7I4kP65u_400x400.jpg"
+              src="https://i.pinimg.com/736x/fa/d5/e7/fad5e79954583ad50ccb3f16ee64f66d.jpg"
               alt=""
             />
           </div>
