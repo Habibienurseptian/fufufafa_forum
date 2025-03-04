@@ -125,7 +125,7 @@ function LeftBar() {
               <ProfileCard
                 name="Miyuzaki San"
                 username="san_miyuzaki"
-                profileImage="https://pbs.twimg.com/profile_images/1254779846615420930/7I4kP65u_400x400.jpg"
+                profileImage="https://i.pinimg.com/736x/fa/d5/e7/fad5e79954583ad50ccb3f16ee64f66d.jpg"
                 href="#"
               />
             </nav>
